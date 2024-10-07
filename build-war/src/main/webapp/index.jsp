@@ -8,5 +8,6 @@
 		HelloHandler handler = new HelloHandler();
 		out.print(prefix + handler.sayHello());
 	%>
+	🎉
 </body>
 </html>
