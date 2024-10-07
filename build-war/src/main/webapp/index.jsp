@@ -8,6 +8,6 @@
 		HelloHandler handler = new HelloHandler();
 		out.print(prefix + handler.sayHello());
 	%>
-	&#128526;
+	&#127881;
 </body>
 </html>
